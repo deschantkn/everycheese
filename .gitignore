@@ -320,4 +320,4 @@ everycheese/media/
 
 .pytest_cache/
 
-.vscode
+.idea/*
